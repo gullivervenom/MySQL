@@ -27,6 +27,11 @@ from
 where
 	DEPARTMENT_NO = 1 and ABSENCE_YN = 'Y' and STUDENT_SSN like '%-2%';
     
+    
+    
+    
+    
+    
 국어국문학과
 select concat('조', '문자열', '평훈');
 
